@@ -3,5 +3,5 @@
     "render_readme": true,
     "homeassistant": "2022.11",
     "zip_release": true,
-    "filename": "adventurous_solar_forecast.zip"
+    "filename": "adventurous-solar-forecast.zip"
 }
