@@ -1,12 +1,12 @@
 {
-  "domain": "open_meteo_solar_forecast",
-  "name": "Open-Meteo Solar Forecast",
-  "codeowners": ["@rany2"],
+  "domain": "adventurous_solar_forecast",
+  "name": "Adventurous Solar Forecast",
+  "codeowners": ["@TheRavenOo"],
   "config_flow": true,
-  "documentation": "https://github.com/rany2/ha-open-meteo-solar-forecast",
+  "documentation": "https://github.com/TheRavenOo/adventurous-solar-forecast",
   "integration_type": "service",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/rany2/ha-open-meteo-solar-forecast/issues",
+  "issue_tracker": "https://github.com/TheRavenOo/adventurous-solar-forecast/issues",
   "requirements": ["open_meteo_solar_forecast==0.1.18"],
   "version": "0.1.16"
 }
