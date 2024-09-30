@@ -1,5 +1,5 @@
 {
-  "domain": "adventurous_solar_forecast",
+  "domain": "adventurous-solar-forecast",
   "name": "Adventurous Solar Forecast",
   "codeowners": ["@TheRavenOo"],
   "config_flow": true,
